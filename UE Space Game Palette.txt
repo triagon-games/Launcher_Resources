@@ -5,10 +5,10 @@
 ; The alpha ('aa') value specifies how transparent a color is. FF is fully opaque, 00 is fully transparent.
 ; A palette must consist of ninety six (96) colors. If there are less than this, the remaining color
 ; slots will be set to white (FFFFFFFF). If there are more, then the remaining colors will be ignored.
-FFFFFFFF
-FFFFFFFF
-FFFFFFFF
-FFFFFFFF
+F2BD00FF
+F2BD0080
+333232FF
+C4C4C4FF
 FFFFFFFF
 FFFFFFFF
 FFFFFFFF
